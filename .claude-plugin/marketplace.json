@@ -9,22 +9,8 @@
   "plugins": [
     {
       "name": "disciplined-methodology",
-      "displayName": "Disciplined Software Engineering Methodology",
-      "description": "A rigorous software engineering methodology featuring 7 specialized subagents, phase-gated workflows, and security safeguards.",
-      "version": "1.0.0",
-      "source": "github:aaronsb/claude-code-config",
-      "author": {
-        "name": "Aaron Bockelie",
-        "url": "https://github.com/aaronsb"
-      },
-      "keywords": [
-        "methodology",
-        "subagents",
-        "requirements",
-        "architecture",
-        "solid-principles",
-        "workflow"
-      ]
+      "source": "./disciplined-methodology",
+      "description": "A rigorous software engineering methodology featuring 7 specialized subagents, phase-gated workflows, and security safeguards."
     }
   ]
 }
