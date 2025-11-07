@@ -10,7 +10,7 @@
     {
       "name": "disciplined-methodology",
       "source": "./disciplined-methodology",
-      "description": "A rigorous software engineering methodology featuring 7 specialized subagents, phase-gated workflows, and security safeguards."
+      "description": "ADR-driven software engineering methodology featuring 6 specialized subagents, GitHub-first collaboration with local fallback, SOLID principles enforcement, and collaborative guidance."
     }
   ]
 }
