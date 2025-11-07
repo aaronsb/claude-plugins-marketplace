@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "disciplined-methodology",
-      "source": "https://github.com/aaronsb/claude-code-config",
+      "source": "./disciplined-methodology",
       "description": "A rigorous software engineering methodology featuring 7 specialized subagents, phase-gated workflows, and security safeguards."
     }
   ]

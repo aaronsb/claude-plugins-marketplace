@@ -1,0 +1,3 @@
+[submodule "disciplined-methodology"]
+	path = disciplined-methodology
+	url = https://github.com/aaronsb/claude-code-config
